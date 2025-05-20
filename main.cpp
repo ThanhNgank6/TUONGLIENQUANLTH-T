@@ -4,6 +4,8 @@
 #include "README.md"
 
 int main() {
+    README T;
+    cin>>T;
     TuongSatThuong t1;
     TuongDauTank t2;
 
