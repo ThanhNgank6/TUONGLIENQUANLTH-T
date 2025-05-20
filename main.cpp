@@ -1,6 +1,7 @@
 #include <iostream>
 #include "TuongSatThuong.h"
 #include "TuongDauTank.h"
+#include "README.md"
 
 int main() {
     TuongSatThuong t1;
